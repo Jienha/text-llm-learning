@@ -1,0 +1,10 @@
+# Core NLP and ML libraries
+nltk
+textblob
+scikit-learn
+pandas
+numpy
+jupyter
+# For advanced LLMs (optional, for later steps)
+transformers
+torch 
