@@ -5,6 +5,30 @@ scikit-learn
 pandas
 numpy
 jupyter
-# For advanced LLMs (optional, for later steps)
+
+# Visualization
+matplotlib
+seaborn
+
+# Deep Learning and Transformers
 transformers
-torch 
+torch
+tensorflow
+
+# Advanced NLP
+spacy
+gensim
+
+# Web frameworks for deployment
+streamlit
+gradio
+flask
+
+# Data processing
+wordcloud
+plotly
+
+# Utilities
+tqdm
+requests
+beautifulsoup4 
